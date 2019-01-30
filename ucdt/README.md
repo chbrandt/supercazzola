@@ -42,3 +42,7 @@ returns the usual UCDs for a given description.
 If you're trying to enrich your dataset with UCDs to make a better
 use of it as well as to share/publish a higher quality data, this
 module is here to to you.
+
+Enjoy!
+
+/.\
