@@ -1,0 +1,3 @@
+[submodule "zplot"]
+	path = zplot
+	url = git@github.com:EmptySpace/zplot.git
